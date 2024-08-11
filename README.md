@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on backend development<br>👯 I’m looking to collaborate on AI projects<br>🤝 I’m looking for help with networking<br>🌱 I’m currently learning AWS services<br>💬 Ask me about mountain treks 
+🔭 I’m a backend developer<br>👯 I’m looking to collaborate on AI projects<br>🤝 I’m looking for help with networking<br>🌱 I’m currently learning AWS services<br>💬 Ask me about mountain treks 
 
 
 ## 🌐 Socials:
